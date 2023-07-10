@@ -36,9 +36,9 @@ Everything Is Easy Full Documentation Below.
 
 ### Available Features On This Version:
 
-		• Team Logo 
-		• Change Facebook Language (lan_change)
-		• Facebook Auto bot (dccsfb)
+	• Team Logo 
+	• Change Facebook Language (lan_change)
+	• Facebook Auto bot (dccsfb)
 
 
 ### Example Codes (Team Logo):
