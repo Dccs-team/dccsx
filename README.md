@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-0.0.2-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Dccs-team/DCCSX?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Dccs-team/DCCSX?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Dccs-team/DCCSX?color=red&style=for-the-badge">
